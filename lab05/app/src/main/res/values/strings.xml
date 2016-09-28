@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="activity2">Activity2</string>
+    <string name="activity5">Activity5</string>
+    <string name="activity4">Activity4</string>
+    <string name="activity_2_one_1_uno_un_une">Activity 2: One, 1, uno, un/une</string>
+    <string name="activity_2_two_2_due_deux">Activity 2: Two, 2 , due, deux</string>
+    <string name="geo_search">Geo Search</string>
+    <string name="browser">Browser</string>
+    <string name="activity3">Activity3</string>
+    <string name="displayTroll">display Troll</string>
+    <string name="troll">big eyes troll</string>
+</resources>
